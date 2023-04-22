@@ -95,14 +95,3 @@ sh run.sh
 
 大概的先介绍到这里，有时间在介绍啦！
 
-
-下面打个小广告啦！最近开了个公众号，希望和大家一起学习，成长。
-
-### 关于我们
-
-AI算法之心是一个介绍python、pyspark、机器学习、自然语言处理、深度学习、算法竞赛的平台。不管你是刚入门的小白，还是资深的算法大佬，欢迎扫一扫下方的二维码与我们在AI的领域中一起学习成长！
-
-
-<div align=center><img src="https://github.com/hecongqing/TextClassification/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190122210742.jpg" width="40%" height="40%">
-
-
